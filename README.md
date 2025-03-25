@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xlasmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xlasmin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/özge boztaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="özge boztaş" height="30" width="40" /></a>
-<a href="https://medium.com/lasmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="lasmin" height="30" width="40" /></a>
+<a href="https://twitter.com/0xlasminn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xlasmin" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/özge boztaş](https://www.linkedin.com/in/%C3%B6zge-bozta%C5%9F-798831258/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="özge boztaş" height="30" width="40" /></a>
+<a href="[https://medium.com/lasmin](https://medium.com/@ozgeboztas26)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="lasmin" height="30" width="40" /></a>
 <a href="https://discord.gg/0xlasmiinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0xlasmiinn" height="30" width="40" /></a>
 </p>
 
